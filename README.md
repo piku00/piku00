@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://cdn.discordapp.com/attachments/1002631718110507009/1034351713567641681/test1__online-video-cutter_com__AdobeExpress.gif" alt="whoami"></h1>
+<h1 align="center"> <img src="https://cdn.discordapp.com/attachments/1002631718110507009/1034351713567641681/test1__online-video-cutter_com__AdobeExpress.gif" alt="whoami" height="200"></h1>
 <h3 align="center">just a chill gamer and explorer</h3>
 <img align="right" src="https://raw.githubusercontent.com/JokeDevil/JokeDevil/master/code.gif" alt="" height="200">
 
